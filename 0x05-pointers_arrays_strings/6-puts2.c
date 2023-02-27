@@ -4,7 +4,7 @@
 /**
  * puts2 - function thats prints every character of a string
  * @str: pointer parameter
- * Author: Sammykingx
+ * Author: optimist
  */
 void puts2(char *str)
 {
